@@ -1,0 +1,53 @@
+Column Descriptions
+
+So what do all the columns mean?
+
+Whisky name is the first column, and is typically self-explanatory. A number followed by “yo” means how many years old is specified on the label. In brackets is additional information about the bottling, where relevant.
+
+MetaCritic score refers to average normalized score of all reviewers who have reported on that whiskiy. Again, this is not a raw score aggregator, but a proper statistical meta-analysis with standardized normalization (as described here).
+
+STDEV is the standard deviation of the mean Meta Critic score, a measure of variance. See this discussion to find out why this is important to consider.
+
+# is the number of reviewers on which the mean Meta Critic score and standard deviation is based. Again, see the link above for a discussion.
+
+Cost is an approximate indicator of the average worldwide price for the whisky in question. In cases where the whisky is not widely available, I have limited the price estimate to areas where it can be found.
+
+$ is for whiskies <$30 CAD
+$$ for whiskies between $30~$50 CAD
+$$$ for whiskies between $50-$70 CAD
+$$$$ for whiskies between $70~$125 CAD
+$$$$$ for whiskies between $125~$300 CAD
+$$$$$+ refers to all whiskies >$300 CAD.
+Class is a key column. Although country and whisky type is specified in later columns, the Class column groups together whiskies that share major common characterisitics. You typically will want to compare scores within these major classes. At present, I have four Classes in the dataset:
+
+Single-Malt-like – includes all the traditional Scottish “single malt” whiskies, and other international malt whiskies. Includes some international blends that taste more like single malts than blends. All whiskies in this class are assigned to a Cluster and Super Cluster, as explained below
+Scotch-like – refers to the typical Scottish “blended whiskies”, and also includes international whiskies that again are of comparable style.
+Rye-like – refers to classic Canadian (and some American) blended whisky style that is heavily influenced by rye flavours. Some whiskies in this category are exclusively rye whisky (i.e., 100% or “straight” rye whisky),  including some international whiskies
+Bourbon-like – refers to the classic American whisky style. Bourbon is a predominantly corn-based whisky (at least 51% corn in the mash). Some Canadian whisky can be bourbon-like.
+Super Cluster and Cluster typically refer to the revised flavour cluster analysis performed here, based on the earlier Wishart analysis (and expanded for all single malt-like whiskies in the dataset). The Super Clusters are groupings of Clusters where the characteristics are similar enough to overlap considerably on the principal component analysis. I recommend you use the Super Clusters when planning to host whisky tasting events, to demonstrate the widest range of flavours. The individual Clusters could be described as follows:
+
+A – Full-bodied, sweet, pronounced sherry – with fruity, honey and spicy notes (e.g., Aberlour A’Bunadh, Auchentoshan Three Wood, Glenfiddich 15yo, Glendronach 12yo, Glenmorangie Lasanta)
+B – Full-bodied, sweet, pronounced sherry – with fruity, floral and malty notes, some honey and spicy notes may be evident (e.g., Balvenie New Wood 17yo, Glenfarclas 10yo/15yo/17yo, Glengoyne 17yo/21yo, Penderyn Madeira)
+C – Full-bodied, sweet, pronounced sherry – with fruity, floral, nutty, and spicy notes, some smoky notes may be evident (e.g., Aberlour 10yo, Glenfarclas 105/12yo/21yo/25yo/30yo, Glenmorangie Signet, Highland Park 18yo)
+E – Medium-bodied, medium-sweet – with fruity, honey, malty and winey notes, some smoky and spicy notes may be evident (e.g., Auchentoshan 12yo/18yo, Dalmore 12yo, Glenrothes Select Reserve/Vintage 1989/1991/1992/1994, Old Pulteney, Redbreast 12yo)
+F – Full-bodied, sweet and malty – with fruity, spicy, and smoky notes (e.g., Bunnahabhain 12yo, Deanston 12yo, Glen Garioch 10yo/12yo/15yo, Glenlivet French Oak 15yo, Tobermory 10yo)
+G – Light-bodied, sweet, apéritif-style – with honey, floral, fruity and spicy notes, but rarely any smoky notes (BenRiach 12yo, Bruichladdich Laddie Classic, Glenfiddich 12yo, Glen Garioch Founder’s Reserve, Glenmorangie 10yo, Jura 10yo)
+H – Very light-bodied, sweet, apéritif-style – with malty, fruity and floral notes (e.g., Auchentoshan Classic/10yo, Cardhu 12yo, Dalwhinnie 15yo, Glen Grant 10yo, Tamdhu 10yo)
+I – Medium-bodied, medium-sweet, quite smoky – with some medicinal notes and spicy, fruity and nutty notes (e.g., Ardmore Traditional Cask, BenRiach Curiositas 10yo, Bowmore 12yo, Highland Park 12yo, Jura Superstition, Oban 14yo, Talisker 10yo).
+J – Full-bodied, dry, very smoky, pungent – with medicinal notes and some  spicy, malty and fruity notes (e.g., Ardbeg 10yo/Corryvreckan/Uigeadail, Lagavulin 16yo, Laphroaig 10yo/15yo/18yo/Quarter Cask, Toumintol Peaty Tang)
+Please see the Whisky Database for further examples of each class. You can probably tell from the above (and the flavour chart) why I decided to “super cluster” A-B-C together, E-F together, and G-H together.
+
+For bourbons and American whiskies, I am using a Cluster classification system based on rye grain content in the mashbill.
+
+R0 – (r=0%) – “No Rye” whisky with 0 rye gain (i.e., no rye in the mashbill or in the resulting taste, includes pure corn whiskies and “wheaters”)
+R1 – (r<=10%) – “Low Rye” whisky of 10% or less rye grain (i.e., lower rye content and flavour than typical)
+R2 – (10%<r<=15%) – “Standard Rye” whisky of 10-15% rye grain (i.e., classic bourbon recipe)
+R3 – (15%<r<51%) – “High Rye” whisky of more 15% rye (i.e., more rye content or flavour than typical, but not enough to classify as a rye whisky)
+R4 – (r>=51%) – “Rye” whisky of more than 51% rye (aka “straight rye”, although that brings with it other requirements for aging)
+Please see my Bourbon Classification page for more info on how this classification scheme was developed.
+
+Country is the country of origin for the whisky
+
+Type is the actual source material used for the whisky.
+
+… And with that, have fun exploring the the Whisky Database!
