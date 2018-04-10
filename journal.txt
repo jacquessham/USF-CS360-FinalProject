@@ -4,3 +4,6 @@ Sunday 4/8/18
 Jacques: Try to work on geomap
 		 Download geomap json file from https://geojson-maps.ash.ms/
 		 Select all countries on the map
+
+Monday 4/9/18
+Jacques: Cleaned the data, moving forward, use whisky_clear.csv

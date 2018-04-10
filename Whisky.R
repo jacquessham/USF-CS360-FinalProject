@@ -29,3 +29,12 @@ names(data) <- c("whisky","score","sd","reviews","cost","class","super_cluster",
 ## Explore data
 data %>% group_by(country) %>% summarise(meanScore = mean(score,na.rm=T))
 data %>% count(country)
+
+## Recode
+data$sd <- NULL
+table(data$cost)
+data$cost %<>% recode("$"=0,"$$"=2,"$$$"=3,"$$$$"=4,"$$$$$"=5,"$$$$$+"=6)
+data$super_cluster <- NULL
+is.na(data$cluster)
+
+write.csv(data, file="whisky_clear.csv")
