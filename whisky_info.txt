@@ -1,11 +1,11 @@
 Interesting Fact of Each Country Whisky Production
 
 	Scotland:
-		Scotland is a famous whisky production country and Scotch Whiksy often called "Scotch".
-		Scotch Whisky is always spelled without the e. In order to be officially called Scotch whisky:
-			The spirit needs to mature in oak for at least three years
-			Production and maturation must take place in Scotland. 
-			Single malt Scotch whisky must be made from 100% malted barley.
+		Scotland is a famous whisky production country and Scotch Whisky often called "Scotch".
+		Scotch Whisky is always spelled without the 'e'. In order to be officially called Scotch whisky:
+			A) The spirit needs to mature in oak for at least three years
+			B) Production and maturation must take place in Scotland. 
+			C) Single malt Scotch whisky must be made from 100% malted barley.
 		Today Scotch whisky is divided into 5 categories:
 			1) Single-Malt: Made from 100% malted barley in one distillery
 			2) Single-Grain: Made from malted barley and mixture of grain in one distillery
@@ -13,19 +13,40 @@ Interesting Fact of Each Country Whisky Production
 			4) Blended grain Scotch Whisky: Blend 2+ single-grain Scotch whiskies from different distilleries
 			5) Blended Scotch Whisky: Blend 1+ single-malt Scotch whiskies with 1+ single-grain Scotch whiskies from different distilleries
 		Regions:
-			1) The Lowlands: Southernmost region of Scotland
-			2) Speyside: Region along the River Spey
+			1) The Lowlands: Southernmost region of Scotland, famous for triple distillery method (Increases the alcohol content but leaves the final whiskey lighter)
+			2) Speyside: Region along the River Spey, 50% of all Scotch is produced here.
 			3) Campbeltown: On the Kintyre Peninsula on the West Coast of Scotland
 			4) Islay: Island across the West Coast of Scotland
-			5) The Highland: The remaining area of Scotland
+			5) The Highlands: The remaining area of Scotland, the largest whisky producing area, over 30 distilleries in the area,
+
+		Typical character:
+			Speyside: Smoky and deeply complex with hints of apple, nutmeg, and vanilla
+			The Highlands: Peaty, honey, dried fruit, robust and dry body
+			The Lowlands: Floral tones with notes like toffee and cinnamon, lighter body
+			Islay: Powerfull wallop, piety, smoky, earthy taste with a touch of salty seaweed
+			Campbeltown: Sweet and savory, smokey notes jostling with fruit, toffee, and vanilla
+
+		Notable Distilleries
+			Speyside: Johnnie Walker, MaCallan, Glenlivet, Glenfiddich
+			The Highlands: Wolfburn, Ben Nevis, Glenturret
+			The Lowlands: Glenkinchie, Bladnoch, Auchentoshan
+			Islay: Bowmore, Lagavulin, Laphroaig
+			Campbeltown: Glen Scotia, Springbank
+
+
+Reference:
+wikipedia
+scotchexperience
+https://www.bespokepost.com/the-post/the-distinctive-flavors-of-scotlands-five-scotch-regions
 
 
 	Ireland:
-		Irish whiskey is always spelled with an e – this is a key difference between Irish whiskey and Scotch whisky.
+		Irish Whiskey is always spelled with an e – this is a key difference between Irish whiskey and Scotch whisky.
 			Irish whiskey uses little or no peat, so there is usually no smokiness in these whiskies. 
 			Irish whiskey may contain a distillate of malt, a barley distillate and a portion of grain spirit.
-			Irish whiskey is distilled three times.
+			Most of the Irish whiskeys distilled three times.
 			Like Scotch whisky, Irish whiskey must be matured for a legal minimum of three years.
+		Typicaly Irish Whiskeys character are complex, aromatic, smooth, slightly sweet
 
 	United States:
 		BOURBON
@@ -33,7 +54,7 @@ Interesting Fact of Each Country Whisky Production
 			Bourbon is a very small area of Kentucky where bourbons were originally produced, but since 1964 American law has stated bourbon can be made anywhere in the USA.
 			In Bourbon whiskey, the residue from the pot still is mixed with the mash to create a ‘sour mash’ whiskey.
 			Distillation of bourbon usually takes place in a column still and then a pot still, but sometimes only column stills are used – Woodford Reserve operate a triple distillation in pot stills.
-			Bourbon spirit is always matured in fresh oak casks, which are charred to yield more flavour.
+			Bourbon spirit is always matured in new fresh oak casks at least two years, which are charred to yield more flavour.
 		RYE WHISKEY
 			Rye whiskey is made in the same way as bourbon, but is made up of 51% rye. Examples of rye whiskey include Wild Turkey Rye and Jim Beam Rye.
 			Rye whiskies send to be spicier in character.
@@ -42,4 +63,35 @@ Interesting Fact of Each Country Whisky Production
 		Japanese whisky came into being in the 1920s. It was inspired by Scotch whisky – Scottish academic institutions trained the first whisky makers of Japan. This means that the process of making Japanese whisky is very similar to Scotch whisky production, however Japanese whisky has no legal minimal maturation period.
 		Most blended Japanese whiskies do use an amount of Scotch malt whisky in their composition – usually this is aged over five years old.
 
+	France:
+		The first French whisky produced in 1987. Now there are over 40 distilleries in France. Famous French distilleries locates in Brittany, Lorraine, and Champagne. French are the largest consumers of whisky in the world, especially Scotch.
 
+	Belgium
+		Two famous Belgian distilleries are Belgian Owl and Goldlys. Belgian Owl are typically young, fruity, vanilla, and little wine almost. Goldlys typically have some peat, silky smooth flavor. 
+
+	Finland
+		Finnish whisky was first distilled from 1981 to 2000 by state-owned alcohol monopoly Alko, then Finish whisky is dominated by Panimoravintola Beer Hunter and Teerenpeli Distillery and Brewery. The typical Finnish character is nutty malt.
+
+	England
+		There are currently at least six distilleries producing English whisky. The typcial English whisky is apple, cream, and clove.
+
+	South Africa
+		South Africa is a fast-growing producer in whisky and they make whisky the same way as Scotland. The typical character of South African whisky is butterscotch, toast, and vanilla.
+
+	India
+		Almost all of the whisky produced in India made from fermented molasses (That taste similar with rum). Indian single malts are made in the same way as Scotch, except it is produced in India. Indian barley mostly grown in the north side of India. One distinguishing features of Indian single malts is the aforementioned use of 6 row barley rather than traditional 2 row is used elsewhere in the world. The unique spicy flavors provided the special character to Indian whisky. Barley for peaty whisky is imported from Scotland. However, the biggest challenges are faced with warmer climates in India.
+
+	Canada
+		Canadian whisky are blended with multi-grain whisky with a large percentage of corn spirits. They are typically lighter and smoother. Canadian whisky can have added color, and can contain up to 9% wine or other spirits. Typical Canadian whisky character is toffee, cinnamon, and toast.
+
+	Netherlands
+		The first Dutch whisky was bottled recently in 2007. Zuidam is the only Dutch distillery in the Netherlands.
+
+	Sweden
+		Swedish whisky's unique flavor comes from the its unusual woods used for maturation. Some whiksies are funky, you may expect a lot of unusual but suprised flavor from Sweden whisky.
+
+	Taiwan
+		Kavalan Distillery is the first and only distillery in Taiwan. It established in 2005 and is named after the indigenous Kavalan people in Taiwan. Not long after the distillery established, its whisky received 3 awards in 2012, 2015, and 2016.
+
+	Australia
+		There are more than 120 distilleries in Australia, 31 of those are in Tasmania. Tasmania has almost everything you need to make a good whisky including water, barley, peat. The typical Australian whisky character are vanilla, oak, and apple.

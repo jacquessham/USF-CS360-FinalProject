@@ -4,13 +4,14 @@
     <title>Leaflet GeoJSON Example</title>
     <meta charset="utf-8" />
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    </style>
+    <style></style>
 </head>
 
 <body>
+  <p> Why why? Tell me why.</p>
     <script type="text/javascript">
-        var w = 2000,
-            h = 1200;
+        var w = 1000,
+            h = 400;
 
         var margin = {top:5, right:5, bottom:100, left:100};
 
@@ -19,7 +20,7 @@
                     .attr("width",w)
                     .attr("height",h)
                     .append("g")
-                    .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                    .attr('transform', 'translate(0,0)');
 
 
         var path = d3.geoPath().projection(d3.geoEquirectangular())

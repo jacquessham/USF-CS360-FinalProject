@@ -10,3 +10,15 @@ Jacques: Cleaned the data, moving forward, use whisky_clear.csv
 
 Tuesday 4/10/18
 Jacques: Research countries on: Scotland, Ireland, United States, and Japan
+
+Friday 4/12/17
+Jacques: Work on selection
+
+Saturday 4/13/17
+Jacques: Work on selection and geomap. Finish the basic framework for selection
+
+Sunday 4/14/17
+Jacques: Finish the framework for geomap. 
+
+Monday 4/15/17
+Jacques: Finish all research on countries

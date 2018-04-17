@@ -1,4 +1,4 @@
-,whisky,score,reviews,cost,class,cluster,country,type
+index,whisky,score,reviews,cost,class,cluster,country,type
 1,Ledaig 42yo Dusgadh,9.46,3,6,SingleMalt-like,C,Scotland,Malt
 2,Glenfarclas 40yo,9.28,14,6,SingleMalt-like,A,Scotland,Malt
 3,Glengoyne 25yo,9.21,14,6,SingleMalt-like,A,Scotland,Malt
@@ -41,7 +41,7 @@
 40,Karuizawa 1990 Sherry Butt,9.02,4,6,SingleMalt-like,A,Japan,Malt
 41,GlenDronach vintage 20yo Single Cask (all vintages),9.01,14,5,SingleMalt-like,A,Scotland,Malt
 42,Aberlour A'Bunadh (Batch 35),9,5,4,SingleMalt-like,A,Scotland,Malt
-43,Bruichladdich 21yo CuvÌ©e 407 PX,9,4,6,SingleMalt-like,A,Scotland,Malt
+43,Bruichladdich 21yo Cuví©e 407 PX,9,4,6,SingleMalt-like,A,Scotland,Malt
 44,Aberlour A'Bunadh (Batch 36),8.99,4,4,SingleMalt-like,A,Scotland,Malt
 45,Arran Malt 21st Anniversary Edition,8.99,5,5,SingleMalt-like,C,Scotland,Malt
 46,Bladnoch 12yo Sherry Cask (Sheep label),8.99,3,5,SingleMalt-like,C,Scotland,Malt
@@ -67,7 +67,7 @@
 66,Tomatin 40yo,8.95,3,6,SingleMalt-like,C,Scotland,Malt
 67,Aberlour A'Bunadh (all batches),8.94,25,4,SingleMalt-like,A,Scotland,Malt
 68,BenRiach 35yo,8.94,5,6,SingleMalt-like,A,Scotland,Malt
-69,Box PX - Pedro XimÌ©nez Finish,8.94,6,5,SingleMalt-like,C,Sweden,Malt
+69,Box PX - Pedro Ximí©nez Finish,8.94,6,5,SingleMalt-like,C,Sweden,Malt
 70,GlenDronach Cask Strength (batch 3),8.94,7,4,SingleMalt-like,A,Scotland,Malt
 71,GlenDronach Cask Strength (batch 4),8.93,12,4,SingleMalt-like,A,Scotland,Malt
 72,Glengoyne 40yo,8.93,3,6,SingleMalt-like,A,Scotland,Malt
@@ -151,7 +151,7 @@
 150,Glenrothes Minister's Reserve,8.73,4,5,SingleMalt-like,A,Scotland,Malt
 151,Highland Park 15yo Fire,8.73,10,6,SingleMalt-like,C,Scotland,Malt
 152,Springbank 13yo Green,8.73,6,4,SingleMalt-like,C,Scotland,Malt
-153,Teerenpeli Distiller‰Ûªs Choice KARHI,8.73,3,4,SingleMalt-like,C,Finland,Malt
+153,Teerenpeli Distilleräó»s Choice KARHI,8.73,3,4,SingleMalt-like,C,Finland,Malt
 154,GlenDronach 21yo Parliament,8.72,19,5,SingleMalt-like,A,Scotland,Malt
 155,Macallan 1824 Sienna,8.71,18,5,SingleMalt-like,C,Scotland,Malt
 156,Oban Distillers Edition (all vintages),8.71,15,4,SingleMalt-like,C,Scotland,Malt
@@ -168,7 +168,7 @@
 167,Glencadam 14yo Oloroso Sherry Cask Finish,8.68,5,4,SingleMalt-like,C,Scotland,Malt
 168,GlenDronach 18yo Marsala Finish,8.68,4,5,SingleMalt-like,B,Scotland,Malt
 169,Glengoyne Cask Strength (batch 2),8.68,3,4,SingleMalt-like,B,Scotland,Malt
-170,Glenmorangie A Midwinter Night‰Ûªs Dram,8.68,5,5,SingleMalt-like,A,Scotland,Malt
+170,Glenmorangie A Midwinter Nightäó»s Dram,8.68,5,5,SingleMalt-like,A,Scotland,Malt
 171,Glenmorangie Taghta,8.68,10,5,SingleMalt-like,C,Scotland,Malt
 172,Mortlach 16yo (F&F),8.68,9,5,SingleMalt-like,C,Scotland,Malt
 173,Tomatin 18yo,8.68,11,4,SingleMalt-like,C,Scotland,Malt
@@ -179,7 +179,7 @@
 178,Hazelburn 12yo (Springbank),8.66,18,4,SingleMalt-like,C,Scotland,Malt
 179,Karuizawa Asama Vintages 1999-2000,8.66,9,6,SingleMalt-like,C,Japan,Malt
 180,Kilchoman Sherry Single Cask,8.66,14,5,SingleMalt-like,C,Scotland,Malt
-181,Redbreast Mano a LÌÁmh,8.66,4,3,SingleMalt-like,C,Ireland,Malt
+181,Redbreast Mano a Líçmh,8.66,4,3,SingleMalt-like,C,Ireland,Malt
 182,Balvenie 17yo Doublewood,8.65,15,5,SingleMalt-like,C,Scotland,Malt
 183,BenRiach 21yo Tawny Port Finish,8.65,3,5,SingleMalt-like,C,Scotland,Malt
 184,Swiss Highland Classic Single Malt,8.65,4,5,SingleMalt-like,C,Switzerland,Malt
@@ -221,7 +221,7 @@
 220,Macallan 30yo Fine Oak,8.56,6,6,SingleMalt-like,C,Scotland,Malt
 221,Amrut Naarangi,8.55,10,5,SingleMalt-like,C,India,Malt
 222,Longrow Red 14yo Burgundy Wood,8.55,5,5,SingleMalt-like,C,Scotland,Malt
-223,Teerenpeli Distiller‰Ûªs Choice AURA,8.55,3,5,SingleMalt-like,C,Finland,Malt
+223,Teerenpeli Distilleräó»s Choice AURA,8.55,3,5,SingleMalt-like,C,Finland,Malt
 224,Arran Malt Sherry Single Cask,8.54,10,4,SingleMalt-like,C,Scotland,Malt
 225,Dalmore 18yo,8.54,14,5,SingleMalt-like,C,Scotland,Malt
 226,Glengoyne 12yo,8.54,10,3,SingleMalt-like,B,Scotland,Malt
@@ -240,7 +240,7 @@
 239,Glenglassaugh 26yo,8.51,5,6,SingleMalt-like,A,Scotland,Malt
 240,Kilchoman Madeira Cask Matured,8.51,9,5,SingleMalt-like,C,Scotland,Malt
 241,Jura 16yo Diurach's Own,8.49,15,4,SingleMalt-like,C,Scotland,Malt
-242,Smogen PrimÌ_r,8.49,4,5,SingleMalt-like,C,Sweden,Malt
+242,Smogen Primí_r,8.49,4,5,SingleMalt-like,C,Sweden,Malt
 243,Aberfeldy 16yo,8.48,4,4,SingleMalt-like,C,Scotland,Malt
 244,Bushmills 16yo Single Malt,8.48,18,4,SingleMalt-like,B,Ireland,Malt
 245,Dalmore Cigar Malt,8.48,6,3,SingleMalt-like,C,Scotland,Malt
@@ -348,12 +348,12 @@
 347,Yamazaki Limited Edition 2016,8.89,3,6,SingleMalt-like,E,Japan,Malt
 348,Macallan Edition No. 2,8.88,13,5,SingleMalt-like,E,Scotland,Malt
 349,Arran Malt Bourbon Single Cask,8.85,10,4,SingleMalt-like,E,Scotland,Malt
-350,Arran Malt The Devil‰Ûªs Punch Bowl (all chapters),8.85,10,5,SingleMalt-like,E,Scotland,Malt
+350,Arran Malt The Deviläó»s Punch Bowl (all chapters),8.85,10,5,SingleMalt-like,E,Scotland,Malt
 351,Kavalan Solist Ex-Bourbon,8.85,19,5,SingleMalt-like,E,Taiwan,Malt
 352,Kininvie 17yo (all batches),8.85,9,6,SingleMalt-like,E,Scotland,Malt
 353,Arran Malt 17yo,8.84,11,4,SingleMalt-like,E,Scotland,Malt
 354,Glenmorangie Astar,8.84,16,5,SingleMalt-like,E,Scotland,Malt
-355,Mackmyra Moment GlÌ_d,8.84,4,5,SingleMalt-like,E,Sweden,Malt
+355,Mackmyra Moment Glí_d,8.84,4,5,SingleMalt-like,E,Sweden,Malt
 356,Compass Box Spice Tree Extravaganza,8.83,10,5,SingleMalt-like,F,Scotland,Malt
 357,Macallan Edition No. 1,8.83,8,5,SingleMalt-like,E,Scotland,Malt
 358,Auchentoshan 21yo,8.82,12,5,SingleMalt-like,E,Scotland,Malt
@@ -381,7 +381,7 @@
 380,Nikka Coffey Malt,8.76,12,4,SingleMalt-like,E,Japan,Malt
 381,Mackmyra Special 04,8.75,8,4,SingleMalt-like,E,Sweden,Malt
 382,Amrut Bourbon Single Cask,8.74,13,4,SingleMalt-like,E,India,Malt
-383,Bruichladdich 21yo CuvÌ©e 640 Eroica,8.74,9,5,SingleMalt-like,E,Scotland,Malt
+383,Bruichladdich 21yo Cuví©e 640 Eroica,8.74,9,5,SingleMalt-like,E,Scotland,Malt
 384,Glenfiddich 19yo Age of Discovery (Bourbon Cask),8.74,9,5,SingleMalt-like,E,Scotland,Malt
 385,Glenfiddich Cask of Dreams,8.74,7,5,SingleMalt-like,F,Scotland,Malt
 386,Redbreast 12yo,8.73,23,3,SingleMalt-like,E,Ireland,Malt
@@ -402,7 +402,7 @@
 401,Royal Brackla 16yo,8.67,7,5,SingleMalt-like,E,Scotland,Malt
 402,Bunnahabhain 12yo,8.66,23,3,SingleMalt-like,F,Scotland,Malt
 403,Ichiro's Malt Double Distilleries,8.65,8,5,SingleMalt-like,E,Japan,Malt
-404,Bruichladdich 21yo CuvÌ©e 382 La Berenice,8.64,7,5,SingleMalt-like,E,Scotland,Malt
+404,Bruichladdich 21yo Cuví©e 382 La Berenice,8.64,7,5,SingleMalt-like,E,Scotland,Malt
 405,Copperworks American Single Malt,8.64,5,3,SingleMalt-like,E,USA,Malt
 406,Glenrothes Vintage 1995 (all bottlings),8.64,15,4,SingleMalt-like,E,Scotland,Malt
 407,Bruichladdich Black Art 4.x 1990,8.63,12,6,SingleMalt-like,E,Scotland,Malt
@@ -423,7 +423,7 @@
 422,Glenfiddich 14yo Rich Oak,8.55,11,3,SingleMalt-like,E,Scotland,Malt
 423,Mackmyra Moment Jord,8.55,3,4,SingleMalt-like,E,Sweden,Malt
 424,Sullivans Cove Port Cask Strength,8.55,8,5,SingleMalt-like,E,Tasmania,Malt
-425,Teerenpeli Distiller‰Ûªs Choice RASI,8.55,3,4,SingleMalt-like,E,Finland,Malt
+425,Teerenpeli Distilleräó»s Choice RASI,8.55,3,4,SingleMalt-like,E,Finland,Malt
 426,Glengoyne 17yo,8.54,14,5,SingleMalt-like,E,Scotland,Malt
 427,Kininvie 23yo (all batches),8.54,9,6,SingleMalt-like,E,Scotland,Malt
 428,Sullivans Cove Bourbon Cask Strength,8.54,6,4,SingleMalt-like,F,Tasmania,Malt
@@ -445,9 +445,9 @@
 444,Macallan 12yo Double Cask,8.48,9,4,SingleMalt-like,E,Scotland,Malt
 445,Mortlach Rare Old,8.48,14,5,SingleMalt-like,E,Scotland,Malt
 446,Glenrothes Vintage Reserve (NAS),8.47,7,3,SingleMalt-like,E,Scotland,Malt
-447,Mackmyra Moment KÌ_lla,8.47,3,5,SingleMalt-like,E,Sweden,Malt
+447,Mackmyra Moment Kí_lla,8.47,3,5,SingleMalt-like,E,Sweden,Malt
 448,Deveron 18yo,8.45,6,4,SingleMalt-like,E,Scotland,Malt
-449,Mackmyra Moment MalstrÌ_m (Maelstrom),8.45,3,5,SingleMalt-like,E,Sweden,Malt
+449,Mackmyra Moment Malstrí_m (Maelstrom),8.45,3,5,SingleMalt-like,E,Sweden,Malt
 450,Old Pulteney 12yo,8.45,26,3,SingleMalt-like,E,Scotland,Malt
 451,Singleton of Glen Ord 15yo,8.45,4,4,SingleMalt-like,E,Scotland,Malt
 452,GlenDronach 8yo The Hielan,8.44,11,3,SingleMalt-like,E,Scotland,Malt
@@ -510,7 +510,7 @@
 509,Auchroisk 10yo (F&F),8.15,4,3,SingleMalt-like,E,Scotland,Malt
 510,Glen Moray 10yo Chardonnay Cask,8.14,10,2,SingleMalt-like,F,Scotland,Malt
 511,Gouden Carolus Single Malt,8.14,4,4,SingleMalt-like,E,Belgium,Malt
-512,Singleton of Dufftown UnitÌ©,8.11,4,2,SingleMalt-like,E,Scotland,Malt
+512,Singleton of Dufftown Unití©,8.11,4,2,SingleMalt-like,E,Scotland,Malt
 513,BenRiach 15yo Sauternes Finish,8.1,3,4,SingleMalt-like,F,Scotland,Malt
 514,Glen Garioch Virgin Oak,8.1,6,4,SingleMalt-like,E,Scotland,Malt
 515,Miltonduff 10yo (F&F),8.08,4,3,SingleMalt-like,E,Scotland,Malt
@@ -537,7 +537,7 @@
 536,Mars Iwai Tradition,7.69,4,4,SingleMalt-like,E,Japan,Blend
 537,Mackmyra Special 01,7.63,3,5,SingleMalt-like,E,Sweden,Malt
 538,Glen Moray 16yo Chenin Blanc,7.59,4,3,SingleMalt-like,F,Scotland,Malt
-539,Santis Edition SÌ_ntis,7.56,7,4,SingleMalt-like,F,Switzerland,Malt
+539,Santis Edition Sí_ntis,7.56,7,4,SingleMalt-like,F,Switzerland,Malt
 540,McClelland's Speyside Single Malt,6.97,7,2,SingleMalt-like,F,Scotland,Malt
 541,Kavalan Solist Moscatel Cask,9.18,4,6,SingleMalt-like,G,Scotland,Malt
 542,Midleton Barry Crockett Legacy,9.08,10,5,SingleMalt-like,G,Ireland,Blend
@@ -575,7 +575,7 @@
 574,Glenfiddich 26yo Excellence,8.7,6,6,SingleMalt-like,G,Scotland,Malt
 575,Arran Malt 12yo Cask Strength (all editions),8.69,14,4,SingleMalt-like,H,Scotland,Malt
 576,Arran Malt 14yo,8.68,23,4,SingleMalt-like,G,Scotland,Malt
-577,Mackmyra The First Edition (Den FÌ_rsta UtgÌ´van),8.67,17,3,SingleMalt-like,H,Sweden,Malt
+577,Mackmyra The First Edition (Den Fí_rsta Utgí«van),8.67,17,3,SingleMalt-like,H,Sweden,Malt
 578,Stronachie 18yo,8.67,6,4,SingleMalt-like,H,Scotland,Malt
 579,Tullibardine 20yo,8.66,4,5,SingleMalt-like,G,Scotland,Malt
 580,Caol Ila 15yo Unpeated,8.65,11,5,SingleMalt-like,G,Scotland,Malt
@@ -757,7 +757,7 @@
 756,Bruichladdich Infinity Third Edition,8.77,5,5,SingleMalt-like,I,Scotland,Malt
 757,Glenlivet Nadurra Peated Cask Finish,8.77,4,4,SingleMalt-like,I,Scotland,Malt
 758,Highland Park 12yo (reviews pre-2014),8.77,20,3,SingleMalt-like,I,Scotland,Malt
-759,Spirit of Hven Tycho‰Ûªs Star,8.77,5,4,SingleMalt-like,I,Sweden,Malt
+759,Spirit of Hven Tychoäó»s Star,8.77,5,4,SingleMalt-like,I,Sweden,Malt
 760,Arran Malt Machrie Moor Cask Strength,8.76,4,4,SingleMalt-like,I,Scotland,Malt
 761,Big Peat (Douglas Laing),8.75,16,4,SingleMalt-like,I,Scotland,Malt
 762,Caol Ila 18yo,8.75,18,5,SingleMalt-like,I,Scotland,Malt
@@ -774,7 +774,7 @@
 773,Oban 18yo,8.72,14,5,SingleMalt-like,I,Scotland,Malt
 774,Compass Box Lady Luck,8.71,6,5,SingleMalt-like,I,Scotland,Malt
 775,Kilchoman Sauternes Cask Matured,8.71,3,4,SingleMalt-like,I,Scotland,Malt
-776,Mackmyra Svensk RÌ_k,8.71,4,4,SingleMalt-like,I,Sweden,Malt
+776,Mackmyra Svensk Rí_k,8.71,4,4,SingleMalt-like,I,Sweden,Malt
 777,Nikka Pure Malt White,8.7,13,3,SingleMalt-like,I,Japan,Malt
 778,Springbank 10yo,8.7,21,4,SingleMalt-like,I,Scotland,Malt
 779,Talisker Dark Storm,8.7,11,3,SingleMalt-like,I,Scotland,Malt
@@ -893,7 +893,7 @@
 892,Wemyss Malts Kiln Embers,8.84,4,3,SingleMalt-like,J,Scotland,Malt
 893,Ardbeg Perpetuum,8.83,16,5,SingleMalt-like,J,Scotland,Malt
 894,Big Peat Christmas Edition (2012-2016),8.82,12,4,SingleMalt-like,J,Scotland,Malt
-895,Bunnahabhain CeÌ_banach,8.82,12,4,SingleMalt-like,J,Scotland,Malt
+895,Bunnahabhain Ceí_banach,8.82,12,4,SingleMalt-like,J,Scotland,Malt
 896,Ardbeg Kelpie,8.81,9,5,SingleMalt-like,J,Scotland,Malt
 897,Laphroaig 15yo (200th Anniversary),8.81,17,4,SingleMalt-like,J,Scotland,Malt
 898,Longrow CV,8.81,17,3,SingleMalt-like,J,Scotland,Malt
@@ -961,7 +961,7 @@
 960,Cutty Sark Prohibition,8.5,14,2,Scotch-like,N,Scotland,Blend
 961,Ichiro's Malt & Grain,8.5,3,5,Scotch-like,N,Japan,Blend
 962,Jameson Cooper's Croze Irish Whiskey,8.49,8,4,Scotch-like,N,Ireland,Blend
-963,Johnnie Walker Explorer‰Ûªs Club The Gold Route,8.49,8,4,Scotch-like,N,Scotland,Blend
+963,Johnnie Walker Exploreräó»s Club The Gold Route,8.49,8,4,Scotch-like,N,Scotland,Blend
 964,Writers Tears Pot Still Irish Whiskey,8.49,19,2,Scotch-like,N,Ireland,Blend
 965,Nikka Coffey Grain,8.48,18,4,Scotch-like,N,Japan,Grain
 966,Compass Box Delilah's,8.47,8,4,Scotch-like,N,Scotland,Blend
@@ -970,7 +970,7 @@
 969,Grant's 12yo,8.47,5,2,Scotch-like,N,Scotland,Blend
 970,Jameson Blender's Dog Irish Whiskey,8.46,6,4,Scotch-like,N,Ireland,Blend
 971,Jameson Gold Reserve,8.46,10,4,Scotch-like,N,Ireland,Blend
-972,TÌ© Bheag,8.46,15,2,Scotch-like,N,Scotland,Blend
+972,Tí© Bheag,8.46,15,2,Scotch-like,N,Scotland,Blend
 973,Johnnie Walker Double Black,8.43,15,2,Scotch-like,N,Scotland,Blend
 974,Powers Signature Release,8.43,6,3,Scotch-like,N,Ireland,Blend
 975,Johnnie Walker Platinum Label,8.42,17,4,Scotch-like,N,Scotland,Blend
@@ -978,14 +978,14 @@
 977,Johnnie Walker 10yo Rye Cask Finish,8.39,6,3,Scotch-like,N,Scotland,Blend
 978,Kirin 50% Blend (Fuji Gotemba),8.39,3,4,Scotch-like,N,Japan,Blend
 979,Jameson Signature Reserve,8.38,5,2,Scotch-like,N,Ireland,Blend
-980,Johnnie Walker Explorer‰Ûªs Club The Spice Road,8.38,9,2,Scotch-like,N,Scotland,Blend
+980,Johnnie Walker Exploreräó»s Club The Spice Road,8.38,9,2,Scotch-like,N,Scotland,Blend
 981,Jameson 12yo Special Reserve,8.37,11,4,Scotch-like,N,Ireland,Blend
 982,Jameson Select Reserve (Black Barrel),8.37,18,2,Scotch-like,N,Ireland,Blend
-983,Johnnie Walker Explorer‰Ûªs Club The Royal Route,8.35,8,5,Scotch-like,N,Scotland,Blend
+983,Johnnie Walker Exploreräó»s Club The Royal Route,8.35,8,5,Scotch-like,N,Scotland,Blend
 984,Suntory Old Whisky,8.32,8,3,Scotch-like,N,Japan,Blend
 985,Suntory The Chita Single Grain,8.32,7,3,Scotch-like,N,Japan,Blend
 986,Johnnie Walker Gold Label Reserve,8.31,18,4,Scotch-like,N,Scotland,Blend
-987,The Irishman Founder‰Ûªs Reserve,8.3,8,2,Scotch-like,N,Ireland,Blend
+987,The Irishman Founderäó»s Reserve,8.3,8,2,Scotch-like,N,Ireland,Blend
 988,Jameson Bold Irish Whiskey,8.29,4,4,Scotch-like,N,Ireland,Blend
 989,Jameson Distiller's Safe Irish Whiskey,8.26,7,4,Scotch-like,N,Ireland,Blend
 990,Johnnie Walker 12yo Black Label,8.26,24,2,Scotch-like,N,Scotland,Blend
@@ -1022,7 +1022,7 @@
 1021,Grand Macnish,7.91,6,0,Scotch-like,N,Scotland,Blend
 1022,Islay Mist 8yo,7.91,9,0,Scotch-like,N,Scotland,Blend
 1023,Jameson Lively Irish Whiskey,7.9,3,4,Scotch-like,N,Ireland,Blend
-1024,Johnnie Walker Explorer‰Ûªs Club The Adventurer,7.88,3,2,Scotch-like,N,Scotland,Blend
+1024,Johnnie Walker Exploreräó»s Club The Adventurer,7.88,3,2,Scotch-like,N,Scotland,Blend
 1025,Hankey Bannister Original,7.87,6,0,Scotch-like,N,Scotland,Blend
 1026,Tullamore Dew Blended,7.84,19,2,Scotch-like,N,Ireland,Blend
 1027,Jameson Irish Whiskey,7.83,21,2,Scotch-like,N,Ireland,Blend
@@ -1049,14 +1049,14 @@
 1048,Thomas H. Handy Sazerac,9.11,18,6,Rye-like,R4,USA,Rye
 1049,High West Rocky Mountain Rye 16yo,9.1,6,5,Rye-like,R4,USA,Rye
 1050,Lot 40 Cask Strength 12 Year Old (2017),9.1,10,4,Rye-like,N,Canada,Rye
-1051,High West Midwinter Night‰Ûªs Dram Rye,9.09,14,5,Rye-like,R4,USA,Rye
+1051,High West Midwinter Nightäó»s Dram Rye,9.09,14,5,Rye-like,R4,USA,Rye
 1052,Van Winkle Family Reserve Rye 13yo,9.07,10,6,Rye-like,R4,USA,Rye
 1053,Canadian Club 30yo,9,6,5,Rye-like,N,Canada,Blend
 1054,Gibson's Finest Rare 18yo,8.98,10,4,Rye-like,N,Canada,Blend
 1055,Canadian Club 40yo,8.97,8,5,Rye-like,N,Canada,Blend
 1056,J.P. Wiser's Legacy,8.97,16,2,Rye-like,N,Canada,Blend
 1057,Canadian Rockies 21yo,8.94,8,3,Rye-like,N,Canada,Blend
-1058,J.P. Wiser‰Ûªs 35yo,8.94,13,5,Rye-like,N,Canada,Rye
+1058,J.P. Wiseräó»s 35yo,8.94,13,5,Rye-like,N,Canada,Rye
 1059,Sazerac 18yo,8.94,16,6,Rye-like,R4,USA,Rye
 1060,J.P. Wiser's Dissertation,8.93,8,3,Rye-like,N,Canada,Blend
 1061,High West Rendezvous Rye,8.92,18,4,Rye-like,R4,USA,Rye
@@ -1077,7 +1077,7 @@
 1076,J.P. Wiser's Union 52,8.81,10,3,Rye-like,N,Canada,Blend
 1077,Whistlepig 10yo,8.81,16,4,Rye-like,N,Canada,Blend
 1078,Forty Creek Port Wood Reserve 2011/2012,8.8,10,4,Rye-like,N,Canada,Blend
-1079,J.P. Wiser‰Ûªs Red Letter,8.79,13,4,Rye-like,N,Canada,Blend
+1079,J.P. Wiseräó»s Red Letter,8.79,13,4,Rye-like,N,Canada,Blend
 1080,Willett Family Estate 5yo Rye,8.79,4,4,Rye-like,R4,USA,Rye
 1081,Forty Creek Confederation Oak (All Batches),8.78,19,3,Rye-like,N,Canada,Blend
 1082,Willett Family Estate 25yo Rye,8.77,3,6,Rye-like,R4,USA,Rye
@@ -1097,7 +1097,7 @@
 1096,Crown Royal Noble Collection Wine Barrel Finished,8.69,6,3,Rye-like,N,Canada,Blend
 1097,Jack Daniel's Single Barrel Rye,8.68,6,3,Rye-like,R4,USA,Rye
 1098,Pike Creek 21yo Speyside Cask Finish,8.68,9,4,Rye-like,N,Canada,Blend
-1099,Angel‰Ûªs Envy Rye (Rum-finished),8.67,10,4,Rye-like,R4,USA,Rye
+1099,Angeläó»s Envy Rye (Rum-finished),8.67,10,4,Rye-like,R4,USA,Rye
 1100,Michter's Single Barrel Straight Rye,8.66,11,3,Rye-like,R4,USA,Rye
 1101,Alberta Rye Dark Batch,8.65,10,2,Rye-like,N,Canada,Blend
 1102,Gooderham & Worts Four Grain,8.65,13,2,Rye-like,N,Canada,Blend
@@ -1113,7 +1113,7 @@
 1112,Rittenhouse Rye 100 Proof,8.59,18,2,Rye-like,R4,USA,Rye
 1113,Sazerac Straight Rye,8.58,15,2,Rye-like,R4,USA,Rye
 1114,Crown Royal XO,8.57,8,3,Rye-like,N,Canada,Blend
-1115,J.P. Wiser‰Ûªs 18yo,8.57,18,3,Rye-like,N,Canada,Blend
+1115,J.P. Wiseräó»s 18yo,8.57,18,3,Rye-like,N,Canada,Blend
 1116,Masterson's Straight Barley 10yo,8.57,7,4,Rye-like,N,Canada,Barley
 1117,Collingwood 21yo,8.56,13,3,Rye-like,N,Canada,Blend
 1118,High West Double Rye Campfire Barrel,8.56,5,3,Rye-like,R4,USA,Rye
@@ -1125,7 +1125,7 @@
 1124,"Forty Creek Confederation Oak (Batch E, F)",8.52,5,3,Rye-like,N,Canada,Blend
 1125,J.P. Wiser's Small Batch,8.52,11,0,Rye-like,N,Canada,Blend
 1126,Danfield's 21yo,8.51,13,2,Rye-like,N,Canada,Blend
-1127,J.P. Wiser‰Ûªs One Fifty,8.5,8,2,Rye-like,N,Canada,Blend
+1127,J.P. Wiseräó»s One Fifty,8.5,8,2,Rye-like,N,Canada,Blend
 1128,Wild Turkey 101 Rye,8.48,13,2,Rye-like,R4,USA,Rye
 1129,Willett Family Estate 2yo Rye,8.48,9,3,Rye-like,R4,USA,Rye
 1130,Forty Creek Founder's Reserve,8.47,6,3,Rye-like,N,Canada,Blend
@@ -1133,10 +1133,10 @@
 1132,George Dickel Rye,8.46,14,2,Rye-like,R4,USA,Rye
 1133,Jim Beam Pre-Prohibition Rye,8.46,6,0,Rye-like,R4,USA,Rye
 1134,J.P. Wiser's Triple Barrel Rye,8.45,6,0,Rye-like,N,Canada,Blend
-1135,Prichard‰Ûªs Rye,8.45,3,4,Rye-like,R4,USA,Rye
+1135,Prichardäó»s Rye,8.45,3,4,Rye-like,R4,USA,Rye
 1136,Forty Creek Barrel Select,8.43,17,0,Rye-like,N,Canada,Blend
 1137,High West Son of Bourye,8.43,12,3,Rye-like,R4,USA,Blend
-1138,J.P. Wiser‰Ûªs 15yo,8.42,6,3,Rye-like,N,Canada,Blend
+1138,J.P. Wiseräó»s 15yo,8.42,6,3,Rye-like,N,Canada,Blend
 1139,Stalk & Barrel Rye (Cask Strength),8.42,9,3,Rye-like,N,Canada,Blend
 1140,Potter's Special Old,8.4,4,0,Rye-like,N,Canada,Blend
 1141,High West Yippee Ki-Yay,8.39,8,4,Rye-like,R4,USA,Rye
@@ -1180,7 +1180,7 @@
 1179,Templeton Rye,7.99,7,3,Rye-like,R4,USA,Rye
 1180,Highwood Ninety 5yo,7.98,8,0,Rye-like,N,Canada,Blend
 1181,Pendleton (Let'er Buck),7.98,14,2,Rye-like,N,Canada,Blend
-1182,J.P. Wiser‰Ûªs Rye,7.97,9,0,Rye-like,N,Canada,Blend
+1182,J.P. Wiseräó»s Rye,7.97,9,0,Rye-like,N,Canada,Blend
 1183,J.P. Wiser's Hopped,7.97,6,0,Rye-like,N,Canada,Blend
 1184,Stalk & Barrel Blue Blend,7.94,4,2,Rye-like,N,Canada,Blend
 1185,J.P. Wiser's Deluxe,7.93,11,0,Rye-like,N,Canada,Blend
@@ -1203,23 +1203,23 @@
 1202,Black Velvet Deluxe,7.12,8,0,Rye-like,N,Canada,Blend
 1203,Ellington Reserve 8yo,6.91,4,0,Rye-like,N,Canada,Blend
 1204,Willett Family Estate 22yo Bourbon,9.32,3,6,Bourbon-like,R2,USA,Bourbon
-1205,Parker‰Ûªs Heritage 2nd 27yo Kentucky Straight Boubon,9.28,3,6,Bourbon-like,R1,USA,Bourbon
+1205,Parkeräó»s Heritage 2nd 27yo Kentucky Straight Boubon,9.28,3,6,Bourbon-like,R1,USA,Bourbon
 1206,Pappy Van Winkle Family Reserve Bourbon 20yo,9.25,14,6,Bourbon-like,R0,USA,Bourbon
 1207,Pappy Van Winkle Family Reserve Bourbon 15yo,9.24,11,6,Bourbon-like,R0,USA,Bourbon
 1208,William Larue Weller,9.24,16,6,Bourbon-like,R0,USA,Bourbon
 1209,George T Stagg,9.2,23,6,Bourbon-like,R1,USA,Bourbon
-1210,Parker‰Ûªs Heritage 7th 10yo Promise of Hope,9.2,9,6,Bourbon-like,R1,USA,Bourbon
+1210,Parkeräó»s Heritage 7th 10yo Promise of Hope,9.2,9,6,Bourbon-like,R1,USA,Bourbon
 1211,Willett Family Estate 24yo Bourbon,9.19,3,6,Bourbon-like,R2,USA,Bourbon
 1212,Elijah Craig 21yo,9.16,6,6,Bourbon-like,R1,USA,Bourbon
 1213,Wild Turkey 15yo American Spirit,9.13,3,6,Bourbon-like,R2,USA,Bourbon
-1214,Parker‰Ûªs Heritage 4th 10yo Wheated Mash Bill Bourbon,9.09,5,6,Bourbon-like,R0,USA,Bourbon
-1215,Parker‰Ûªs Heritage 5th 10yo Cognac Barrel Finished,9.07,9,6,Bourbon-like,R1,USA,Bourbon
+1214,Parkeräó»s Heritage 4th 10yo Wheated Mash Bill Bourbon,9.09,5,6,Bourbon-like,R0,USA,Bourbon
+1215,Parkeräó»s Heritage 5th 10yo Cognac Barrel Finished,9.07,9,6,Bourbon-like,R1,USA,Bourbon
 1216,"Buffalo Trace Experimental Collection 12yo floor #5 (rye, 2014)",9.06,5,5,Bourbon-like,R1,USA,Bourbon
 1217,Four Roses Small Batch Limited Edition,9.05,17,6,Bourbon-like,R3,USA,Bourbon
-1218,Parker‰Ûªs Heritage 6th Blend of Mashbills,9.05,6,6,Bourbon-like,R1,USA,Bourbon
+1218,Parkeräó»s Heritage 6th Blend of Mashbills,9.05,6,6,Bourbon-like,R1,USA,Bourbon
 1219,William Heavenhill BiB,9.05,5,6,Bourbon-like,R2,USA,Bourbon
 1220,Michter's 20yo Single Barrel Bourbon,9.04,5,6,Bourbon-like,R1,USA,Bourbon
-1221,Parker‰Ûªs Heritage 11th 2017 11yo,9.04,4,5,Bourbon-like,R1,USA,Bourbon
+1221,Parkeräó»s Heritage 11th 2017 11yo,9.04,4,5,Bourbon-like,R1,USA,Bourbon
 1222,Willett Family Estate 8yo Bourbon,9.02,3,4,Bourbon-like,R2,USA,Bourbon
 1223,Wild Turkey Master's Keep Decades,9.01,7,5,Bourbon-like,R2,USA,Bourbon
 1224,Willett Family Estate Bourbon (all ages),8.96,16,4,Bourbon-like,R2,USA,Bourbon
@@ -1247,12 +1247,12 @@
 1246,Pappy Van Winkle Family Reserve Bourbon 23yo,8.81,6,6,Bourbon-like,R0,USA,Bourbon
 1247,Willett Family Estate 11yo Bourbon,8.81,5,6,Bourbon-like,R2,USA,Bourbon
 1248,Maker's Mark Cask Strength,8.8,14,4,Bourbon-like,R0,USA,Bourbon
-1249,Parker‰Ûªs Heritage 8th 13yo Wheat Whiskey,8.8,9,6,Bourbon-like,R0,USA,Bourbon
+1249,Parkeräó»s Heritage 8th 13yo Wheat Whiskey,8.8,9,6,Bourbon-like,R0,USA,Bourbon
 1250,Wild Turkey 14yo Tradition,8.8,5,5,Bourbon-like,R2,USA,Bourbon
 1251,J.P. Wiser's Last Barrels,8.79,11,3,Bourbon-like,N,Canada,Blend
 1252,Michter's 10yo Single Barrel Bourbon,8.79,11,6,Bourbon-like,R1,USA,Bourbon
 1253,Wild Turkey Diamond Anniversary,8.79,7,5,Bourbon-like,R2,USA,Bourbon
-1254,Baker‰Ûªs Kentucky Straight Bourbon 7yo,8.78,21,3,Bourbon-like,R2,USA,Bourbon
+1254,Bakeräó»s Kentucky Straight Bourbon 7yo,8.78,21,3,Bourbon-like,R2,USA,Bourbon
 1255,Knob Creek Single Barrel Reserve Bourbon,8.78,14,3,Bourbon-like,R2,USA,Bourbon
 1256,Old Forester Birthday (2012-2016),8.77,12,5,Bourbon-like,R2,USA,Bourbon
 1257,Russell's Reserve Single Barrel,8.76,9,4,Bourbon-like,R2,USA,Bourbon
@@ -1308,7 +1308,7 @@
 1307,Jim Beam Distillers Masterpiece PX Sherry Cask Finish,8.49,6,5,Bourbon-like,R2,USA,Bourbon
 1308,Jack Daniel's Single Barrel,8.48,17,3,Bourbon-like,R1,USA,Bourbon
 1309,Jim Beam Bonded,8.47,11,2,Bourbon-like,R2,USA,Bourbon
-1310,Parker‰Ûªs Heritage 9th 8yo Malt Whiskey,8.47,6,5,Bourbon-like,R1,USA,Bourbon
+1310,Parkeräó»s Heritage 9th 8yo Malt Whiskey,8.47,6,5,Bourbon-like,R1,USA,Bourbon
 1311,Angel's Envy Bourbon (Port-finished),8.46,15,3,Bourbon-like,R2,USA,Bourbon
 1312,Wild Turkey Forgiven,8.46,9,3,Bourbon-like,R2,USA,Bourbon
 1313,Bernheim Original Straight Wheat 7yo Small Batch,8.45,19,2,Bourbon-like,R0,USA,Wheat
@@ -1325,10 +1325,10 @@
 1324,Woodford Reserve Distiller's Select,8.39,22,2,Bourbon-like,R2,USA,Bourbon
 1325,Smooth Ambler Old Scout 10yo Bourbon,8.38,4,4,Bourbon-like,R3,USA,Bourbon
 1326,Stagg Jr (batches 1-2),8.38,15,4,Bourbon-like,R1,USA,Bourbon
-1327,Basil Hayden‰Ûªs Kentucky Bourbon,8.37,17,3,Bourbon-like,R3,USA,Bourbon
+1327,Basil Haydenäó»s Kentucky Bourbon,8.37,17,3,Bourbon-like,R3,USA,Bourbon
 1328,Bulleit Bourbon,8.37,24,2,Bourbon-like,R3,USA,Bourbon
 1329,Heaven Hill 6yo BiB,8.37,8,0,Bourbon-like,R1,USA,Bourbon
-1330,Parker‰Ûªs Heritage 10th 24yo Kentucky Straight Bourbon,8.36,7,6,Bourbon-like,R1,USA,Bourbon
+1330,Parkeräó»s Heritage 10th 24yo Kentucky Straight Bourbon,8.36,7,6,Bourbon-like,R1,USA,Bourbon
 1331,Larceny Small Batch Bourbon,8.35,11,2,Bourbon-like,R0,USA,Bourbon
 1332,Yellowstone 2015 Limited Edition,8.35,4,5,Bourbon-like,R3,USA,Bourbon
 1333,Old Forester 1870 Original Batch,8.34,3,3,Bourbon-like,R2,USA,Bourbon
